@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9a826ab-abfa-41f6-9cf7-0fb4314a31a0": {
+      "ProjectGuid": "d9a826ab-abfa-41f6-9cf7-0fb4314a31a0",
+      "DisplayName": "MyminimalAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
